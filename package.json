@@ -1,0 +1,29 @@
+{
+  "name": "express-es2015-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findjashua/express-es2015-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findjashua/express-es2015-starter/issues"
+  },
+  "homepage": "https://github.com/findjashua/express-es2015-starter#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "nodemon": "^1.10.0"
+  }
+}
